@@ -15,6 +15,12 @@ Library app to manage books and writers: add books (name, image, price, type, pu
 - Add writer screen
 - Cubit state management
 
+## Screenshots
+
+| Books list | Add book |
+|:---:|:---:|
+| <img src="screenshots/01-books.jpg" width="240" alt="Books list" /> | <img src="screenshots/02-add-book.jpg" width="240" alt="Add book" /> |
+
 ## Tech stack
 
 Flutter, Cloud Firestore, flutter_bloc (Cubit), intl
